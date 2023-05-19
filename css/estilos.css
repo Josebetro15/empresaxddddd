@@ -1,0 +1,172 @@
+.tm5{
+    font-size: 1rem;
+}
+.tm4{
+    font-size: 3rem;
+}
+.tm3{
+    font-size: 2.2rem;
+}
+.tm2{
+    font-size: 2rem;
+    text-decoration: none;
+    color: rgb(129, 28, 28);
+}
+.tm22{
+    font-size: 2rem;
+    text-decoration: none;
+
+}
+.titulo{
+    font-size: 3rem;
+}
+.sla{
+    color: rgb(243, 7, 7);
+    text-decoration: none;
+}
+.sla a{
+    color: rgb(243, 7, 7);
+ 
+   
+}
+.sla :hover {
+    color: rgb(129, 28, 28);
+    text-decoration:underline;
+    font-size: 3rem;
+
+}
+.center{
+    text-align: center;
+}
+.cf{
+    background-color: rgba(52, 83, 85, 0.832);
+
+}
+.tx{
+    font-family: 'Bruno Ace SC', cursive;
+    font-family: 'Foldit', cursive;
+
+}
+.txt{
+    font-family: 'Bebas Neue', cursive;
+
+}
+.txtt{
+    font-family: 'Macondo', cursive;
+}
+.separar2{
+    padding: 2rem;
+}
+.separar{
+    display: flex;
+    justify-content: space-between;
+}
+.center{
+    text-align: center;
+}
+body{
+    padding: 7rem;
+    background-color: rgb(18, 136, 136);
+}
+.txttt{
+    font-family: 'Press Start 2P', cursive;
+
+}
+.txtttt{
+
+    font-family: 'Black Ops One', cursive;
+}
+
+.cf3{
+    background-color: rgb(52, 141, 149);
+    width: 80rem;
+    margin: 0 auto;
+    height: 8rem;
+}
+.c1{
+    color: rgb(132, 183, 181);
+}
+.c2{
+    color: rgb(40, 170, 159);
+}
+.a{
+    font-size: 1rem;        
+}
+.a a{
+    font-size: 1rem;
+    text-decoration: none;
+    color: rgb(147, 190, 190);
+    
+}
+.a :hover{
+    font-size:1.5rem;
+    text-decoration: underline;
+    color: rgb(161, 206, 211);
+    
+     
+ 
+}
+.bordei {
+    border-radius: 15px 15px 0px 0px;
+-moz-border-radius: 15px 15px 0px 0px;
+-webkit-border-radius: 15px 15px 0px 0px;
+border: 0px solid #29949e;
+}
+.bordef{
+    border-radius: 0px 0px 15px 15px;
+-moz-border-radius: 0px 0px 15px 15px;
+-webkit-border-radius: 0px 0px 15px 15px;
+border: 0px solid #000000;
+}
+.borde {
+    border-radius: 15px 15px 15px 15px;
+-moz-border-radius: 15px 15px 15px 15px;
+-webkit-border-radius: 15px 15px 15px 15px;
+border: 0px solid #29949e;
+
+}
+.tmxf{
+    padding: 10 rem;
+}
+.sp{
+    padding: 3rem;
+}
+.sl{
+    text-align: center;
+    transition-property:inherit;
+    transition-duration: 600ms;
+}
+.sl a{
+    text-decoration: none;
+    background-color:#125056 ;
+    color: rgb(34, 169, 184);
+    padding: 2rem;
+    border-radius: 20%;
+}
+
+.sl :hover{
+font-size: 1.7rem;
+background-color: rgb(35, 150, 163);
+color: #125056;
+padding: 2rem;
+border-radius: 20%;
+font-family: 'Press Start 2P', cursive;
+}
+.img{
+    background-size:200cqmin;
+    background-image: url(../img/daniel-andrade-0IZC2kYhYIo-unsplash.jpg);
+}
+.justificado{
+    text-align: justify;
+    
+}
+.bordel{
+    -webkit-box-shadow: 0px -3px 23px 19px rgba(162,224,224,1);
+-moz-box-shadow: 0px -3px 23px 19px rgba(162,224,224,1);
+box-shadow: 0px -3px 23px 19px rgba(162,224,224,1);
+}
+.bordedi{
+    -webkit-box-shadow: inset 3px 6px 111px 13px rgba(106,217,210,1);
+-moz-box-shadow: inset 3px 6px 111px 13px rgba(106,217,210,1);
+box-shadow: inset 3px 6px 111px 13px rgba(106,217,210,1);
+}
